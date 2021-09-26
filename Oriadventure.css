@@ -1,0 +1,163 @@
+body 
+{
+	
+	background-image: url("2021-09-26_10.28.41.png") ;
+	background-repeat: no-repeat;
+}
+
+header 
+{
+	color: white;
+	position: relative;
+	left: 17px;
+	font-family: 'Stick No Bills', sans-serif;
+	font-size: 20px;
+}
+
+#Travail
+{
+	color: white;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 20px;
+	position: relative;
+	top: 50px;
+}
+
+
+#Oriadventure
+{
+	color: white;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	
+}
+
+#caca
+{
+	
+	
+	
+	font-family: 'Poppins', sans-serif;
+
+	
+	display: flex;
+  justify-content: center;
+  position: relative;
+  right: px;    /* 350 px */
+ 
+
+}
+
+#Oriadvent
+{
+	text-align: center;
+	position: relative;
+	right: px;   /* 500px*/	 
+	
+	color: #114555;
+   font-family: Arial;
+	font-size: 30px;
+}
+
+
+
+#Oriadventure
+{
+	font-size: 30px;
+
+}
+
+#discord
+{
+	
+	text-align: center;
+	font-family:  'Poppins', sans-serif;;
+
+
+
+}
+
+}
+
+
+
+body
+{
+  display: flex;
+  flex-direction: column;
+
+}
+
+#block2
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+#Discordtext
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: end;
+}
+
+
+
+footer
+{
+	display: flex;
+  justify-content: space-around;
+}
+
+
+
+
+
+#contenuediscord
+{
+	position: relative;
+	top: 30px;
+	right: 225px;
+
+}
+
+
+
+#discordoriadvent
+{
+	color: #114555;
+	font-family: Arial;
+	font-size: 30px;
+}
+
+#caca
+{
+	position: relative;
+	top: 75px;
+	right: 240px;
+}
+
+
+
+#contenuediscord
+{
+	position: relative;
+	top: 86px;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+
+#discordoriadvent
+{
+	position: relative;
+	top: 46px;
+	font-size: 30px;
+	font-family: Arial;
+}
+
+
+
+
